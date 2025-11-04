@@ -3,7 +3,9 @@ const urlsToCache = [ // Lista de archivos a guardar en caché
     './',
     './index.html',
     './app.js',
-    './manifest.json'
+    './manifest.json',
+    "./192.png",
+    "./512.png"
 ];
 
 // Instalar Service Worker
